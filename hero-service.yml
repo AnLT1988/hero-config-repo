@@ -1,1 +1,1 @@
-hero.greeting="Hello there, from hero config.yml"
+hero.greeting: "Hello there, from hero config.yml"
